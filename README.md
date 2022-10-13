@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @therocky876
-- 👀 I’m interested in ...Full-Stack Development
+- 👀 I’m interested in ...Non Code 
 - 🌱 I’m currently learning ... HTML/CSS-->JS
 - 💞️ I’m looking to collaborate on ... HTML/CSS and non code project 
 
